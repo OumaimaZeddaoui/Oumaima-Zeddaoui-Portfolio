@@ -1,4 +1,70 @@
-<h1 align="center">Hi 👋, I'm Oumaima Zeddaoui</h1>
+class OumaimaZ:
+
+    def __init__(self):
+        self.username = 'Oumaima-Zeddaoui'
+        self.name = 'Oumaima Zeddaoui'
+        self.position = 'Cybersecurity & Network Engineering Student'
+        self.email = 'oumaima.zeddaouii@gmail.com'
+        self.linkedin = 'https://www.linkedin.com/in/oumaima-zeddaoui-733764321'
+        self.github = 'https://github.com/Oumaima-Zeddaoui'
+        self.certifications = [
+            'Google Cybersecurity', 
+            'Cybersecurity Fundamentals', 
+            'Python for Research',
+            'Successful Negotiation',
+            'Emotional Intelligence'
+        ]
+        self.skills = {
+            'cybersecurity': [
+                'Log Analysis', 
+                'Brute-force Simulation', 
+                'Password Hashing', 
+                'Encryption (Caesar, ROT13)'
+            ],
+            'tools': [
+                'Wireshark', 
+                'Nmap', 
+                'Linux', 
+                'Kali Linux', 
+                'pandas', 
+                'bcrypt'
+            ],
+            'languages': [
+                'Python', 
+                'C', 
+                'C++', 
+                'Java', 
+                'PHP', 
+                'SQL', 
+                'PL/SQL', 
+                'T-SQL', 
+                'Bash'
+            ],
+            'web': ['HTML', 'CSS', 'JavaScript'],
+            'frameworks': ['Django', 'FastAPI'],
+            'databases': ['SQLite', 'MySQL', 'PostgreSQL']
+        }
+        self.languages = {
+            'French': 'Fluent',
+            'English': 'Intermediate',
+            'Arabic': 'Native'
+        }
+        self.traits = [
+            'Analytical thinking', 
+            'Problem solving', 
+            'Autonomous', 
+            'Curious', 
+            'Team spirit'
+        ]
+
+    def __str__(self):
+        return f'{self.name} | {self.position}'
+
+
+if __name__ == '__main__':
+    me = OumaimaZ()
+    print(me)
+
 <h3 align="center">A passionate cybersecurity, AI and networking student from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oumaimazeddaoui&label=Profile%20views&color=0e75b6&style=flat" alt="oumaimazeddaoui" /> </p>
