@@ -1,69 +1,82 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Oumaima%20Zeddaoui&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,30:2d2d2d,70:1e3a8a,100:1a1a1a&height=200&section=header&text=Oumaima%20Zeddaoui&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;Student+in+Computer+Systems+and+Networks+👨‍💻;Welcome+to+my+Profile!+🚀" />
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=24&center=true&vCenter=true&width=800&height=70&duration=4000&lines=👋+Salut!+Je+suis+Oumaima;🎓+Étudiante+Ingénieur+Informatique+%26+Réseaux;🔐+Future+Spécialiste+en+Cybersécurité;🚀+Bienvenue+sur+mon+profil!" />
+</div>
 
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-oumaima--zeddaoui--portfolio.vercel.app-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white)](https://oumaima-zeddaoui-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Oumaima%20Zeddaoui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumaima-zeddaoui-733764321/)
+[![Email](https://img.shields.io/badge/📧%20Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumaima.zeddaouii@gmail.com)
 
-<h3 align="center">🛡️ Cybersecurity • 🤖 AI • 🌐 Networking Student from Morocco 🇲🇦</h3>
+</div>
+
+<h3 align="center">🎓 3ème Année Ingénieur • 🔐 Future Cybersécurité • 🤖 IA • 🌐 Réseaux • 🇲🇦 Maroc</h3>
 
 <br/>
 
-## 🚀 About Me
+## 🚀 À Propos de Moi
 
-I'm a passionate cybersecurity, AI, and networking student from Morocco 🇲🇦, dedicated to securing the digital world through innovative technology solutions.
+Je suis une étudiante passionnée en **3ème année d'Ingénieur Informatique et Réseaux** au Maroc 🇲🇦, qui se prépare à se spécialiser en **cybersécurité** l'année prochaine.
 
-Currently, I'm working on SentinAI Net, an AI-powered network security monitoring system that combines my expertise in artificial intelligence and cybersecurity.
+Actuellement, je travaille sur **SentinAI Net**, un système de surveillance de sécurité réseau alimenté par l'IA qui combine mon expertise en intelligence artificielle et cybersécurité.
 
-My journey in technology spans multiple domains — from low-level programming in C and C++ to high-level AI implementations in Python. I'm particularly fascinated by the intersection of AI and cybersecurity, where I leverage machine learning algorithms to detect and prevent cyber threats in real-time.
+Mon parcours technologique couvre plusieurs domaines — de la programmation bas niveau en C et C++ aux implémentations IA de haut niveau en Python. Je suis particulièrement fascinée par l'intersection entre l'IA et la cybersécurité.
 
-### 🎯 My Expertise Areas
-- 🔐 **Cybersecurity**: Intrusion Detection, Network Security, Ethical Hacking
-- 🤖 **Artificial Intelligence**: Machine Learning, Data Analysis, Neural Networks
-- 🌐 **Networking**: Network Administration, Protocol Analysis, Infrastructure
-- 💻 **Programming**: Python, C++, C, Java, JavaScript
-- 🗄️ **Databases**: MySQL, PostgreSQL, Microsoft SQL Server
-- 🛠️ **DevOps**: Docker, Linux, System Administration
+### 🎯 Mes Domaines d'Expertise
 
-### 🏆 Current Goals
-- Develop cutting-edge AI security solutions
-- Contribute to open-source cybersecurity projects
-- Bridge the gap between AI and network security
-- Become a leader in ethical hacking and AI integration
+- 🔐 **Cybersécurité**: Détection d'intrusion, Sécurité réseau, Ethical Hacking
+- 🤖 **Intelligence Artificielle**: Machine Learning, Analyse de données, Réseaux de neurones  
+- 🌐 **Réseaux**: Administration réseau, Analyse de protocoles, Infrastructure
+- 💻 **Programmation**: Python, C++, C, Java, JavaScript
+- 🗄️ **Bases de données**: MySQL, PostgreSQL, Microsoft SQL Server
+- 🛠️ **DevOps**: Docker, Linux, Administration système
 
-### 🎮 What I'm Currently Focused On
-- **Learning**: Advanced machine learning algorithms for threat detection
-- **Building**: SentinAI Net - AI-powered network security system
-- **Practicing**: Ethical hacking techniques and penetration testing
-- **Exploring**: Zero-trust architecture and quantum-safe cryptography
+### 🏆 Objectifs Actuels
 
-### 💡 What Drives Me
-The digital landscape is constantly evolving, and with it, new security challenges emerge daily. I believe that by combining the power of artificial intelligence with robust cybersecurity practices, we can stay ahead of cyber threats and create a safer digital environment for everyone.
+- Réussir ma formation d'ingénieur informatique
+- Préparer ma spécialisation en cybersécurité
+- Développer des solutions de sécurité IA innovantes
+- Contribuer à des projets open-source de cybersécurité
 
-### 🥋 Beyond Code
-When I'm not immersed in coding or analyzing network traffic, you'll find me practicing taekwondo 🥋 and kickboxing 🥊, disciplines that have taught me patience, precision, and strategic thinking - qualities that translate perfectly into cybersecurity work. I also enjoy chess ♟️, which sharpens my analytical skills and helps me think several moves ahead, much like anticipating potential security vulnerabilities.
+### 🎮 Sur Quoi Je Me Concentre Actuellement
 
-<p align="center"><em>🛡️ "Securing the digital world with AI-powered solutions"</em></p>
+- **Apprentissage**: Algorithmes ML avancés pour la détection de menaces
+- **Construction**: SentinAI Net - Système de sécurité réseau alimenté par l'IA
+- **Pratique**: Techniques d'ethical hacking et tests de pénétration
+- **Exploration**: Architecture zero-trust et cryptographie post-quantique
+
+### 💡 Ce Qui Me Motive
+
+Le paysage numérique évolue constamment, et avec lui, de nouveaux défis de sécurité émergent quotidiennement. Je crois qu'en combinant la puissance de l'intelligence artificielle avec des pratiques de cybersécurité robustes, nous pouvons anticiper les cybermenaces et créer un environnement numérique plus sûr pour tous.
+
+### 🥋 Au-delà du Code
+
+Quand je ne suis pas plongée dans le code ou l'analyse du trafic réseau, vous me trouverez en train de pratiquer le taekwondo 🥋 et la kickboxing 🥊, des disciplines qui m'ont enseigné la patience, la précision et la pensée stratégique - des qualités qui se traduisent parfaitement dans le travail de cybersécurité. J'aime aussi jouer aux échecs ♟️, ce qui aiguise mes compétences analytiques.
+
+<p align="center"><em>🛡️ "Sécuriser le monde numérique avec des solutions alimentées par l'IA"</em></p>
 
 ---
 
-## 🔭 Currently Working On
-- **SentinAI Net** - AI-powered network security monitoring system
+## 🔭 Projets Actuels
 
-## 💬 Ask Me About
-- **Cybersécurité** 🔐 - Network security, intrusion detection, ethical hacking
-- **Réseaux** 🌐 - Network administration, protocol analysis, infrastructure
-- **Intelligence Artificielle** 🤖 - Machine learning, neural networks, AI integration
-- **Intrusion Detection** 📊 - Security monitoring, threat analysis
-- **Programming** - C++, C, Java, Python, JavaScript
+- **SentinAI Net** - Système de surveillance de sécurité réseau alimenté par l'IA
+
+## 💬 Demandez-moi à Propos de
+
+- **Cybersécurité** 🔐 - Sécurité réseau, détection d'intrusion, ethical hacking
+- **Réseaux** 🌐 - Administration réseau, analyse de protocoles, infrastructure  
+- **Intelligence Artificielle** 🤖 - Machine learning, réseaux de neurones, intégration IA
+- **Détection d'Intrusion** 📊 - Surveillance sécuritaire, analyse de menaces
+- **Programmation** - C++, C, Java, Python, JavaScript
 - **Bases de données** - MySQL, PostgreSQL, SQL Server
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Langages et Outils
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -119,38 +132,41 @@ When I'm not immersed in coding or analyzing network traffic, you'll find me pra
   </a> 
 </p>
 
+## 🎯 Faits Amusants
 
-## 🎯 Fun Facts
-
-- 🥋 When I'm not in front of my terminal, I practice taekwondo and kickboxing
-- ♟️ I enjoy playing chess in my free time
-- 🧠 I'm passionate about combining AI with cybersecurity for innovative solutions
-- 🌐 I believe in making the digital world safer for everyone
-- 🔍 Always eager to learn new technologies and security methodologies
+- 🥋 Quand je ne suis pas devant mon terminal, je pratique le taekwondo et la kickboxing
+- ♟️ J'aime jouer aux échecs pendant mon temps libre
+- 🧠 Je suis passionnée par la combinaison de l'IA avec la cybersécurité pour des solutions innovantes
+- 🌐 Je crois en la création d'un monde numérique plus sûr pour tous
+- 🔍 Toujours désireuse d'apprendre de nouvelles technologies et méthodologies de sécurité
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Comment Me Contacter
 
 - **Email**: oumaima.zeddaouii@gmail.com
 - **GitHub**: [Oumaima Zeddaoui](https://github.com/oumaimazeddaoui)
 - **LinkedIn**: [Oumaima Zeddaoui](https://www.linkedin.com/in/oumaima-zeddaoui-733764321/)
+- **Portfolio**: [oumaima-zeddaoui-portfolio.vercel.app](https://oumaima-zeddaoui-portfolio.vercel.app/)
 
 ---
 
-## 🌟 Current Focus
+## 🌟 Focus Actuel
 
-- 🔒 Developing advanced intrusion detection systems
-- 🤖 Integrating AI/ML into cybersecurity solutions
-- 🌐 Network security optimization and monitoring
-- 📚 Continuous learning in emerging security technologies
+- 🔒 Développement de systèmes de détection d'intrusion avancés
+- 🤖 Intégration de l'IA/ML dans les solutions de cybersécurité
+- 🌐 Optimisation et surveillance de la sécurité réseau
+- 📚 Apprentissage continu des technologies de sécurité émergentes
 
-<p align="center">
-  <i>🛡️ "Security is not a product, but a process" - Bruce Schneier</i>
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+## 💭 Citation Motivante
+
+<div align="center">
+
+*« Les grandes choses ne se font pas par impulsion, mais par une série de petites choses rassemblées. »*  
+**- Vincent Van Gogh**
+
+</div>
 
 
