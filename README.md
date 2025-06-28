@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Oumaima%20Zeddaoui&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Oumaima+Zeddaoui!;Cybersecurity+Enthusiast+🔐;AI+&+Networking+Student+🤖;Welcome+to+my+Profile!+🚀" />
-</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;Student+in+Computer+Systems+%26+Networks+👨‍💻;Welcome+to+my+Profile!+🚀" />
+</h3>
+
+
 
 <h3 align="center">🛡️ Cybersecurity • 🤖 AI • 🌐 Networking Student from Morocco 🇲🇦</h3>
 
@@ -12,9 +14,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate cybersecurity, AI and networking student from Morocco 🇲🇦, dedicated to securing the digital world through innovative technology solutions. Currently working on **SentinAI Net**, an AI-powered network security monitoring system that combines my expertise in artificial intelligence with cybersecurity.
+I'm a passionate cybersecurity, AI, and networking student from Morocco 🇲🇦, dedicated to securing the digital world through innovative technology solutions.
 
-My journey in technology spans across multiple domains - from low-level programming in C and C++ to high-level AI implementations in Python. I'm particularly fascinated by the intersection of artificial intelligence and cybersecurity, where I can leverage machine learning algorithms to detect and prevent cyber threats in real-time.
+Currently, I'm working on SentinAI Net, an AI-powered network security monitoring system that combines my expertise in artificial intelligence and cybersecurity.
+
+My journey in technology spans multiple domains — from low-level programming in C and C++ to high-level AI implementations in Python. I'm particularly fascinated by the intersection of AI and cybersecurity, where I leverage machine learning algorithms to detect and prevent cyber threats in real-time.
 
 ### 🎯 My Expertise Areas
 - 🔐 **Cybersecurity**: Intrusion Detection, Network Security, Ethical Hacking
@@ -148,5 +152,5 @@ When I'm not immersed in coding or analyzing network traffic, you'll find me pra
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-```
+
 
