@@ -3,8 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=24&center=true&vCenter=true&width=800&height=70&duration=4000&lines=👋+Salut!+Je+suis+Oumaima;🎓+Étudiante+Ingénieur+Informatique+%26+Réseaux;🔐+Future+Spécialiste+en+Cybersécurité;🚀+Bienvenue+sur+mon+profil!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=18&center=true&vCenter=true&width=800&height=70&duration=4000&lines=👋+Salut!+Je+suis+Oumaima;🎓+Étudiante+en+3ᵉ+année+d’ingénierie+informatique+et+réseaux+👩‍💻;🔐+Future+Spécialiste+en+Cybersécurité;🚀+Bienvenue+sur+mon+profil!" />
 </div>
+
 
 <div align="center">
 
